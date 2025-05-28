@@ -5,7 +5,7 @@ int main(){
     vector<int>ans;
     //123, 234, 345, ...  
     for(int digit=low; digit<= high; digit++){
-
+        
         string str = to_string(digit);
         bool flag = true;
         for(int i=0; i<str.length()-1; i++)
