@@ -34,3 +34,8 @@ int main(){
     cout<<"ANS = "<<sum;
     return 0;
 }
+
+
+
+// leetcode =>   42. Trapping Rain Water
+// Link =>     https://leetcode.com/problems/trapping-rain-water/submissions/1659990622/
